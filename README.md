@@ -30,9 +30,7 @@
 </p>
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabir-05&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,4 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabir-05&show_icons=true&locale=en&layout=compact" alt="jabir-05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabir-05&show_icons=true&locale=en" alt="jabir-05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabir-05&show_icons=true&locale=en" alt="jabir-05" /></p> <p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabir-05&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
+
