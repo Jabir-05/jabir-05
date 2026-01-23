@@ -30,7 +30,9 @@
 </p>
 ## 🔥 GitHub Streak
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jabir-05&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
